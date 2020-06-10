@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UFERSA3</title>
+    <link>/</link>
+    <description>Recent content on UFERSA3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como fazer posts em RMarkdown com blogdown</title>
+      <link>/post/como-fazer-posts-em-rmarkdown-com-blogdown/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/como-fazer-posts-em-rmarkdown-com-blogdown/</guid>
+      <description>&lt;p&gt;Aqui você verá algumas dicas e funcionalidades de Rmarkdown e Blogdown para fazer produzir o conteúdo da página usando a linguagem R.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sobre a UFERSA3</title>
+      <link>/post/sobre-a-ufersa3/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sobre-a-ufersa3/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Uma breve introdução sobre quem somos, o que fazemos e qual o nosso propósito.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

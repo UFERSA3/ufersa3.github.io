@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UFERSA3</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on UFERSA3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como fazer posts em RMarkdown com blogdown</title>
+      <link>/post/como-fazer-posts-em-rmarkdown-com-blogdown/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/como-fazer-posts-em-rmarkdown-com-blogdown/</guid>
+      <description>&lt;p&gt;Aqui você verá algumas dicas e funcionalidades de Rmarkdown e Blogdown para fazer produzir o conteúdo da página usando a linguagem R.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sobre a UFERSA3</title>
+      <link>/post/sobre-a-ufersa3/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sobre-a-ufersa3/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;Uma breve introdução sobre quem somos, o que fazemos e qual o nosso propósito.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
